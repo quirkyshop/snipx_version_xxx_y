@@ -1,0 +1,1 @@
+# snipx_version
